@@ -32,6 +32,7 @@ Uma API RESTful desenvolvida em Java com Spring Boot para o gerenciamento de liv
 * Java JDK 17 ou superior
 * PostgreSQL e pgAdmin instalado e rodando
 * Maven
+* Deixei também uma coleção do Postman, da qual utilizei para controle de dados. Nesta coleção, caso a baixem, já possui todas as instruções da mesma na descrição.
 
 ### Passos
 1. Clone o repositório:
