@@ -36,4 +36,4 @@ Uma API RESTful desenvolvida em Java com Spring Boot para o gerenciamento de liv
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/rick-rocha/api-biblioteca-spring.git](https://github.com/SeuUsuario/api-biblioteca-spring.git)
+   git clone [https://github.com/rick-rocha/api-biblioteca-spring.git](https://github.com/rick-rocha/api-biblioteca-spring.git)
